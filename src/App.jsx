@@ -79,7 +79,7 @@ import Textbox from "./Textbox"
 // import Button from "./Button"
 import "./style.css"
 
-// const App = () => {
+const App = () => {
 //   const name = "nob"
 //   const popAlert = (text) => {
 //     alert(text)
